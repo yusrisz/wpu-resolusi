@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
 -Javascript
   * ES6
   * FRANETWORKS Javascrip
--Struktur data dasar
+  ^Angular
+  ^React
 -PHP franeworks
+ ^Laravel
 -Interview
 -Vlogs
